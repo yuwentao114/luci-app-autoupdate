@@ -2,7 +2,7 @@ require("luci.sys")
 
 m = Map("autoupdate",translate("AutoUpdate"),
 translate("AutoUpdate LUCI supports one-click firmware upgrade and scheduled upgrade")
-.. [[<br /><br /><a href="https://github.com/yuwentao114/Actions-OpenWrt/releases/latest">]]
+.. [[<br /><br /><a href="https://github.com/yuwentao114/Actions-OpenWrt/releases/download/x86_64/">]]
 .. translate("Powered by Actions-OpenWrt")
 .. [[</a>]]
 )
